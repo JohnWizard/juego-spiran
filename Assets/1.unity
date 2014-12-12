@@ -149,6 +149,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 37246931}
   - 212: {fileID: 37246932}
+  - 61: {fileID: 37246933}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -191,6 +192,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &37246933
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1759481118}
+  m_GameObject: {fileID: 37246930}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &50572828
 Prefab:
   m_ObjectHideFlags: 0
@@ -244,6 +257,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 64697203}
   - 212: {fileID: 64697204}
+  - 61: {fileID: 64697205}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -286,6 +300,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &64697205
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1074129495}
+  m_GameObject: {fileID: 64697202}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &69854897
 GameObject:
   m_ObjectHideFlags: 0
@@ -295,6 +321,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 69854898}
   - 212: {fileID: 69854899}
+  - 61: {fileID: 69854900}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -337,6 +364,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &69854900
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1303313690}
+  m_GameObject: {fileID: 69854897}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &78414009
 GameObject:
   m_ObjectHideFlags: 0
@@ -346,6 +385,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 78414010}
   - 212: {fileID: 78414011}
+  - 61: {fileID: 78414012}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -388,6 +428,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &78414012
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 181272446}
+  m_GameObject: {fileID: 78414009}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &79596364
 Prefab:
   m_ObjectHideFlags: 0
@@ -441,6 +493,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 80126371}
   - 212: {fileID: 80126372}
+  - 61: {fileID: 80126373}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -483,6 +536,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &80126373
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 307649869}
+  m_GameObject: {fileID: 80126370}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &105657095
 Prefab:
   m_ObjectHideFlags: 0
@@ -536,6 +601,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 114001958}
   - 212: {fileID: 114001959}
+  - 61: {fileID: 114001960}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -578,6 +644,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &114001960
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1616868257}
+  m_GameObject: {fileID: 114001957}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &122377587
 Prefab:
   m_ObjectHideFlags: 0
@@ -631,6 +709,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 127890757}
   - 212: {fileID: 127890758}
+  - 61: {fileID: 127890759}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -673,6 +752,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &127890759
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 211010164}
+  m_GameObject: {fileID: 127890756}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &136399342
 GameObject:
   m_ObjectHideFlags: 0
@@ -707,7 +798,7 @@ MonoBehaviour:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 32
     m_FontStyle: 1
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 10
     m_MaxSize: 40
     m_Alignment: 4
@@ -734,10 +825,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 235695996}
   m_RootOrder: 0
-  m_AnchorMin: {x: .5, y: .5}
-  m_AnchorMax: {x: .5, y: .5}
-  m_AnchoredPosition: {x: 1.54972076e-06, y: 0}
-  m_SizeDelta: {x: 153.600006, y: 58}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -.786521137, y: -.267309964}
+  m_SizeDelta: {x: .526950002, y: 2.23460007}
   m_Pivot: {x: .5, y: .5}
 --- !u!1 &147397484
 GameObject:
@@ -748,6 +839,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 147397485}
   - 212: {fileID: 147397486}
+  - 61: {fileID: 147397487}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -790,6 +882,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &147397487
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1804109173}
+  m_GameObject: {fileID: 147397484}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &149967452
 GameObject:
   m_ObjectHideFlags: 0
@@ -799,6 +903,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 149967453}
   - 212: {fileID: 149967454}
+  - 61: {fileID: 149967455}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -841,6 +946,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &149967455
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 421655861}
+  m_GameObject: {fileID: 149967452}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &154009596
 GameObject:
   m_ObjectHideFlags: 0
@@ -850,6 +967,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 154009597}
   - 212: {fileID: 154009598}
+  - 61: {fileID: 154009599}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -892,6 +1010,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &154009599
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 954230953}
+  m_GameObject: {fileID: 154009596}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &174501000
 GameObject:
   m_ObjectHideFlags: 0
@@ -901,6 +1031,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 174501001}
   - 212: {fileID: 174501002}
+  - 61: {fileID: 174501003}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -943,6 +1074,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &174501003
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1588650543}
+  m_GameObject: {fileID: 174501000}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &181272446
 Prefab:
   m_ObjectHideFlags: 0
@@ -996,6 +1139,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 189038190}
   - 212: {fileID: 189038191}
+  - 61: {fileID: 189038192}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -1038,6 +1182,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &189038192
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1519220409}
+  m_GameObject: {fileID: 189038189}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &195231146
 GameObject:
   m_ObjectHideFlags: 0
@@ -1047,6 +1203,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 195231147}
   - 212: {fileID: 195231148}
+  - 61: {fileID: 195231149}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -1089,6 +1246,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &195231149
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 897240240}
+  m_GameObject: {fileID: 195231146}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &195595473
 Prefab:
   m_ObjectHideFlags: 0
@@ -1142,6 +1311,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 204108661}
   - 212: {fileID: 204108662}
+  - 61: {fileID: 204108663}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -1184,6 +1354,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &204108663
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 2079339553}
+  m_GameObject: {fileID: 204108660}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &204228309
 Prefab:
   m_ObjectHideFlags: 0
@@ -1265,7 +1447,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d453b7b9fd1d9ba4491118f74663de3f, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 21200000, guid: d453b7b9fd1d9ba4491118f74663de3f, type: 2}
       propertyPath: m_SortingOrder
@@ -1329,6 +1511,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 218138365}
   - 212: {fileID: 218138366}
+  - 61: {fileID: 218138367}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -1371,6 +1554,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &218138367
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1271570673}
+  m_GameObject: {fileID: 218138364}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &227296014
 GameObject:
   m_ObjectHideFlags: 0
@@ -1380,6 +1575,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 227296015}
   - 212: {fileID: 227296016}
+  - 61: {fileID: 227296017}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -1422,6 +1618,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &227296017
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1207953175}
+  m_GameObject: {fileID: 227296014}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &235695995
 GameObject:
   m_ObjectHideFlags: 0
@@ -1456,8 +1664,8 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -6.0999999, y: 6.5999999}
-  m_SizeDelta: {x: 153.600006, y: 55.0999985}
+  m_AnchoredPosition: {x: -9.19999981, y: 14.0999813}
+  m_SizeDelta: {x: 110.300003, y: 38.2000008}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &235695997
 MonoBehaviour:
@@ -1682,6 +1890,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 252184955}
   - 212: {fileID: 252184956}
+  - 61: {fileID: 252184957}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -1724,6 +1933,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &252184957
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1958490982}
+  m_GameObject: {fileID: 252184954}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &280787915
 GameObject:
   m_ObjectHideFlags: 0
@@ -1733,6 +1954,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 280787916}
   - 212: {fileID: 280787917}
+  - 61: {fileID: 280787918}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -1775,6 +1997,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &280787918
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 782098692}
+  m_GameObject: {fileID: 280787915}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &285213216
 Prefab:
   m_ObjectHideFlags: 0
@@ -1960,6 +2194,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 315649773}
   - 212: {fileID: 315649774}
+  - 61: {fileID: 315649775}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -2002,6 +2237,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &315649775
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 955982550}
+  m_GameObject: {fileID: 315649772}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &326401576
 GameObject:
   m_ObjectHideFlags: 0
@@ -2011,6 +2258,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 326401577}
   - 212: {fileID: 326401578}
+  - 61: {fileID: 326401579}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -2053,6 +2301,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &326401579
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1662529767}
+  m_GameObject: {fileID: 326401576}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &326615661
 GameObject:
   m_ObjectHideFlags: 0
@@ -2062,6 +2322,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 326615662}
   - 212: {fileID: 326615663}
+  - 61: {fileID: 326615664}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -2104,6 +2365,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &326615664
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 249277919}
+  m_GameObject: {fileID: 326615661}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &334491748
 Prefab:
   m_ObjectHideFlags: 0
@@ -2201,6 +2474,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 344444250}
   - 212: {fileID: 344444251}
+  - 61: {fileID: 344444252}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -2243,6 +2517,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &344444252
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1700225659}
+  m_GameObject: {fileID: 344444249}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &345700466
 GameObject:
   m_ObjectHideFlags: 0
@@ -2252,6 +2538,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 345700467}
   - 212: {fileID: 345700468}
+  - 61: {fileID: 345700469}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -2294,6 +2581,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &345700469
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 511344962}
+  m_GameObject: {fileID: 345700466}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &357448429
 Prefab:
   m_ObjectHideFlags: 0
@@ -2347,6 +2646,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 368374757}
   - 212: {fileID: 368374758}
+  - 61: {fileID: 368374759}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -2389,6 +2689,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &368374759
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1980000915}
+  m_GameObject: {fileID: 368374756}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &391061357
 GameObject:
   m_ObjectHideFlags: 0
@@ -2398,6 +2710,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 391061358}
   - 212: {fileID: 391061359}
+  - 61: {fileID: 391061360}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -2440,6 +2753,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &391061360
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 695940843}
+  m_GameObject: {fileID: 391061357}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &413230076
 GameObject:
   m_ObjectHideFlags: 0
@@ -2449,6 +2774,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 413230077}
   - 212: {fileID: 413230078}
+  - 61: {fileID: 413230079}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -2491,6 +2817,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &413230079
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1915773700}
+  m_GameObject: {fileID: 413230076}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &413697100
 GameObject:
   m_ObjectHideFlags: 0
@@ -2500,6 +2838,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 413697101}
   - 212: {fileID: 413697102}
+  - 61: {fileID: 413697103}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -2542,6 +2881,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &413697103
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1792806091}
+  m_GameObject: {fileID: 413697100}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &419673730
 Prefab:
   m_ObjectHideFlags: 0
@@ -2639,6 +2990,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 436530226}
   - 212: {fileID: 436530227}
+  - 61: {fileID: 436530228}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -2681,6 +3033,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &436530228
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 294360630}
+  m_GameObject: {fileID: 436530225}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &438883593
 GameObject:
   m_ObjectHideFlags: 0
@@ -2690,6 +3054,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 438883594}
   - 212: {fileID: 438883595}
+  - 61: {fileID: 438883596}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -2732,6 +3097,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &438883596
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1590436060}
+  m_GameObject: {fileID: 438883593}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &440285290
 GameObject:
   m_ObjectHideFlags: 0
@@ -2741,6 +3118,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 440285291}
   - 212: {fileID: 440285292}
+  - 61: {fileID: 440285293}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -2783,6 +3161,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &440285293
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1620379217}
+  m_GameObject: {fileID: 440285290}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &448973297
 Prefab:
   m_ObjectHideFlags: 0
@@ -2910,7 +3300,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 3
 --- !u!1001 &478110463
 Prefab:
   m_ObjectHideFlags: 0
@@ -2964,6 +3354,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 510598952}
   - 212: {fileID: 510598953}
+  - 61: {fileID: 510598954}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -3006,6 +3397,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &510598954
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 584245385}
+  m_GameObject: {fileID: 510598951}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &511344962
 Prefab:
   m_ObjectHideFlags: 0
@@ -3059,6 +3462,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 516032086}
   - 212: {fileID: 516032087}
+  - 61: {fileID: 516032088}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -3101,6 +3505,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &516032088
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 614391683}
+  m_GameObject: {fileID: 516032085}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &526619740
 GameObject:
   m_ObjectHideFlags: 0
@@ -3271,6 +3687,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 563621559}
   - 212: {fileID: 563621560}
+  - 61: {fileID: 563621561}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -3313,6 +3730,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &563621561
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 308436266}
+  m_GameObject: {fileID: 563621558}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &571347066
 GameObject:
   m_ObjectHideFlags: 0
@@ -3322,6 +3751,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 571347067}
   - 212: {fileID: 571347068}
+  - 61: {fileID: 571347069}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -3364,6 +3794,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &571347069
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1088621600}
+  m_GameObject: {fileID: 571347066}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &572040952
 Prefab:
   m_ObjectHideFlags: 0
@@ -3461,6 +3903,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 585484193}
   - 212: {fileID: 585484194}
+  - 61: {fileID: 585484195}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -3503,6 +3946,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &585484195
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1507136458}
+  m_GameObject: {fileID: 585484192}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &590988564
 Prefab:
   m_ObjectHideFlags: 0
@@ -3644,6 +4099,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 640950956}
   - 212: {fileID: 640950957}
+  - 61: {fileID: 640950958}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -3686,6 +4142,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &640950958
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1174432863}
+  m_GameObject: {fileID: 640950955}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &650103375
 Prefab:
   m_ObjectHideFlags: 0
@@ -3767,7 +4235,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a45b4ea20111b4345acd6548dfa682dd, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a45b4ea20111b4345acd6548dfa682dd, type: 2}
@@ -3783,6 +4251,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 673610528}
   - 212: {fileID: 673610529}
+  - 61: {fileID: 673610530}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -3825,6 +4294,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &673610530
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 342294650}
+  m_GameObject: {fileID: 673610527}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &675965078
 GameObject:
   m_ObjectHideFlags: 0
@@ -3834,6 +4315,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 675965079}
   - 212: {fileID: 675965080}
+  - 61: {fileID: 675965081}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -3876,6 +4358,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &675965081
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1981411059}
+  m_GameObject: {fileID: 675965078}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &677068396
 GameObject:
   m_ObjectHideFlags: 0
@@ -3885,6 +4379,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 677068398}
   - 212: {fileID: 677068397}
+  - 61: {fileID: 677068399}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -3927,6 +4422,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1688109292}
   m_RootOrder: 13
+--- !u!61 &677068399
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1170443620}
+  m_GameObject: {fileID: 677068396}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &693157768
 GameObject:
   m_ObjectHideFlags: 0
@@ -3936,6 +4443,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 693157769}
   - 212: {fileID: 693157770}
+  - 61: {fileID: 693157771}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -3978,6 +4486,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &693157771
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1690588094}
+  m_GameObject: {fileID: 693157768}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &695940843
 Prefab:
   m_ObjectHideFlags: 0
@@ -4031,6 +4551,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 713555914}
   - 212: {fileID: 713555915}
+  - 61: {fileID: 713555916}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -4073,6 +4594,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &713555916
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1476832878}
+  m_GameObject: {fileID: 713555913}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &715650045
 GameObject:
   m_ObjectHideFlags: 0
@@ -4082,6 +4615,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 715650046}
   - 212: {fileID: 715650047}
+  - 61: {fileID: 715650048}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -4124,6 +4658,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &715650048
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1792388525}
+  m_GameObject: {fileID: 715650045}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &722603780
 Prefab:
   m_ObjectHideFlags: 0
@@ -4353,6 +4899,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 811110819}
   - 212: {fileID: 811110820}
+  - 61: {fileID: 811110821}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -4395,6 +4942,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &811110821
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 357448429}
+  m_GameObject: {fileID: 811110818}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &817450693
 Prefab:
   m_ObjectHideFlags: 0
@@ -4448,6 +5007,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 821675562}
   - 212: {fileID: 821675563}
+  - 61: {fileID: 821675564}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -4490,6 +5050,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &821675564
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1527126979}
+  m_GameObject: {fileID: 821675561}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &835378481
 GameObject:
   m_ObjectHideFlags: 0
@@ -4499,6 +5071,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 835378482}
   - 212: {fileID: 835378483}
+  - 61: {fileID: 835378484}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -4541,6 +5114,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &835378484
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1244170101}
+  m_GameObject: {fileID: 835378481}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &842163823
 Prefab:
   m_ObjectHideFlags: 0
@@ -4638,6 +5223,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 855445514}
   - 212: {fileID: 855445515}
+  - 61: {fileID: 855445516}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -4680,6 +5266,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &855445516
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 285213216}
+  m_GameObject: {fileID: 855445513}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &858678509
 GameObject:
   m_ObjectHideFlags: 0
@@ -4689,6 +5287,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 858678510}
   - 212: {fileID: 858678511}
+  - 61: {fileID: 858678512}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -4731,6 +5330,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &858678512
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1086600651}
+  m_GameObject: {fileID: 858678509}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &862355500
 GameObject:
   m_ObjectHideFlags: 0
@@ -4740,6 +5351,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 862355501}
   - 212: {fileID: 862355502}
+  - 61: {fileID: 862355503}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -4782,6 +5394,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &862355503
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 448973297}
+  m_GameObject: {fileID: 862355500}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &863238857
 Prefab:
   m_ObjectHideFlags: 0
@@ -4835,6 +5459,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 875694908}
   - 212: {fileID: 875694909}
+  - 61: {fileID: 875694910}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -4877,6 +5502,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &875694910
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1318278526}
+  m_GameObject: {fileID: 875694907}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &876662133
 GameObject:
   m_ObjectHideFlags: 0
@@ -4886,6 +5523,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 876662134}
   - 212: {fileID: 876662135}
+  - 61: {fileID: 876662136}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -4928,6 +5566,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &876662136
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 478110463}
+  m_GameObject: {fileID: 876662133}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &883103538
 Prefab:
   m_ObjectHideFlags: 0
@@ -5025,6 +5675,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 907295848}
   - 212: {fileID: 907295849}
+  - 61: {fileID: 907295850}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -5067,6 +5718,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &907295850
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1538269956}
+  m_GameObject: {fileID: 907295847}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &918910215
 Prefab:
   m_ObjectHideFlags: 0
@@ -5186,6 +5849,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 936214113}
   - 212: {fileID: 936214114}
+  - 61: {fileID: 936214115}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -5228,6 +5892,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &936214115
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 2041872236}
+  m_GameObject: {fileID: 936214112}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &953003129
 GameObject:
   m_ObjectHideFlags: 0
@@ -5237,6 +5913,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 953003130}
   - 212: {fileID: 953003131}
+  - 61: {fileID: 953003132}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -5279,6 +5956,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &953003132
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 590988564}
+  m_GameObject: {fileID: 953003129}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &954230953
 Prefab:
   m_ObjectHideFlags: 0
@@ -5332,6 +6021,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 954602305}
   - 212: {fileID: 954602306}
+  - 61: {fileID: 954602307}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -5374,6 +6064,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &954602307
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1680887858}
+  m_GameObject: {fileID: 954602304}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &955982550
 Prefab:
   m_ObjectHideFlags: 0
@@ -5427,6 +6129,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 985940300}
   - 212: {fileID: 985940301}
+  - 61: {fileID: 985940302}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -5469,6 +6172,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &985940302
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1493516702}
+  m_GameObject: {fileID: 985940299}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &995237606
 GameObject:
   m_ObjectHideFlags: 0
@@ -5478,6 +6193,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 995237608}
   - 212: {fileID: 995237607}
+  - 61: {fileID: 995237609}
   m_Layer: 0
   m_Name: avatar2
   m_TagString: Untagged
@@ -5519,7 +6235,19 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 4
+--- !u!61 &995237609
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: a45b4ea20111b4345acd6548dfa682dd,
+    type: 2}
+  m_PrefabInternal: {fileID: 667423430}
+  m_GameObject: {fileID: 995237606}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1005700157
 GameObject:
   m_ObjectHideFlags: 0
@@ -5529,6 +6257,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1005700158}
   - 212: {fileID: 1005700159}
+  - 61: {fileID: 1005700160}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -5571,6 +6300,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1005700160
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 650103375}
+  m_GameObject: {fileID: 1005700157}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1009730916
 Prefab:
   m_ObjectHideFlags: 0
@@ -5624,6 +6365,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1014860858}
   - 212: {fileID: 1014860859}
+  - 61: {fileID: 1014860860}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -5666,6 +6408,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1014860860
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 784748337}
+  m_GameObject: {fileID: 1014860857}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1074129495
 Prefab:
   m_ObjectHideFlags: 0
@@ -5719,6 +6473,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1083124552}
   - 212: {fileID: 1083124553}
+  - 61: {fileID: 1083124554}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -5761,6 +6516,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1083124554
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 236605561}
+  m_GameObject: {fileID: 1083124551}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1086600651
 Prefab:
   m_ObjectHideFlags: 0
@@ -5946,6 +6713,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1136280920}
   - 212: {fileID: 1136280921}
+  - 61: {fileID: 1136280922}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -5988,6 +6756,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1136280922
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 918910215}
+  m_GameObject: {fileID: 1136280919}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1157554481
 GameObject:
   m_ObjectHideFlags: 0
@@ -5997,6 +6777,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1157554482}
   - 212: {fileID: 1157554483}
+  - 61: {fileID: 1157554484}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -6039,6 +6820,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1157554484
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1659320285}
+  m_GameObject: {fileID: 1157554481}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1160655981
 Prefab:
   m_ObjectHideFlags: 0
@@ -6092,6 +6885,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1162279896}
   - 212: {fileID: 1162279897}
+  - 61: {fileID: 1162279898}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -6134,6 +6928,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1162279898
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 2055169167}
+  m_GameObject: {fileID: 1162279895}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1165774939
 GameObject:
   m_ObjectHideFlags: 0
@@ -6143,6 +6949,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1165774940}
   - 212: {fileID: 1165774941}
+  - 61: {fileID: 1165774942}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -6185,6 +6992,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1165774942
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 572040952}
+  m_GameObject: {fileID: 1165774939}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1170443620
 Prefab:
   m_ObjectHideFlags: 0
@@ -6282,6 +7101,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1192808804}
   - 212: {fileID: 1192808805}
+  - 61: {fileID: 1192808806}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -6324,6 +7144,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1192808806
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1779654296}
+  m_GameObject: {fileID: 1192808803}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1194766646
 GameObject:
   m_ObjectHideFlags: 0
@@ -6333,6 +7165,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1194766647}
   - 212: {fileID: 1194766648}
+  - 61: {fileID: 1194766649}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -6375,6 +7208,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1194766649
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1102267993}
+  m_GameObject: {fileID: 1194766646}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1201884245
 GameObject:
   m_ObjectHideFlags: 0
@@ -6384,6 +7229,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1201884246}
   - 212: {fileID: 1201884247}
+  - 61: {fileID: 1201884248}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -6426,6 +7272,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1201884248
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 105657095}
+  m_GameObject: {fileID: 1201884245}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1207953175
 Prefab:
   m_ObjectHideFlags: 0
@@ -6479,6 +7337,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1209221135}
   - 212: {fileID: 1209221136}
+  - 61: {fileID: 1209221137}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -6521,6 +7380,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1209221137
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1588134017}
+  m_GameObject: {fileID: 1209221134}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1244170101
 Prefab:
   m_ObjectHideFlags: 0
@@ -6574,6 +7445,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1263153769}
   - 212: {fileID: 1263153770}
+  - 61: {fileID: 1263153771}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -6616,6 +7488,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1263153771
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1956907320}
+  m_GameObject: {fileID: 1263153768}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1271570673
 Prefab:
   m_ObjectHideFlags: 0
@@ -6669,6 +7553,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1282465853}
   - 212: {fileID: 1282465854}
+  - 61: {fileID: 1282465855}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -6711,6 +7596,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1282465855
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1685441741}
+  m_GameObject: {fileID: 1282465852}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1302817404
 GameObject:
   m_ObjectHideFlags: 0
@@ -6720,6 +7617,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1302817405}
   - 212: {fileID: 1302817406}
+  - 61: {fileID: 1302817407}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -6762,6 +7660,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1302817407
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 334491748}
+  m_GameObject: {fileID: 1302817404}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1303313690
 Prefab:
   m_ObjectHideFlags: 0
@@ -6815,6 +7725,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1305084843}
   - 212: {fileID: 1305084844}
+  - 61: {fileID: 1305084845}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -6857,6 +7768,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1305084845
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 50572828}
+  m_GameObject: {fileID: 1305084842}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1318278526
 Prefab:
   m_ObjectHideFlags: 0
@@ -6910,6 +7833,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1347836596}
   - 212: {fileID: 1347836597}
+  - 61: {fileID: 1347836598}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -6952,6 +7876,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1347836598
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 419673730}
+  m_GameObject: {fileID: 1347836595}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1370827703
 Prefab:
   m_ObjectHideFlags: 0
@@ -7005,6 +7941,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1389617722}
   - 212: {fileID: 1389617723}
+  - 61: {fileID: 1389617724}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -7047,6 +7984,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1389617724
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1768452094}
+  m_GameObject: {fileID: 1389617721}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1396028775
 Prefab:
   m_ObjectHideFlags: 0
@@ -7100,6 +8049,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1410258971}
   - 212: {fileID: 1410258972}
+  - 61: {fileID: 1410258973}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -7142,6 +8092,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1410258973
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 842163823}
+  m_GameObject: {fileID: 1410258970}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1411792362
 GameObject:
   m_ObjectHideFlags: 0
@@ -7151,6 +8113,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1411792363}
   - 212: {fileID: 1411792364}
+  - 61: {fileID: 1411792365}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -7193,6 +8156,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1411792365
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1009730916}
+  m_GameObject: {fileID: 1411792362}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1429827634
 GameObject:
   m_ObjectHideFlags: 0
@@ -7202,6 +8177,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1429827635}
   - 212: {fileID: 1429827636}
+  - 61: {fileID: 1429827637}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -7244,6 +8220,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1429827637
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1533637306}
+  m_GameObject: {fileID: 1429827634}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1456564222
 GameObject:
   m_ObjectHideFlags: 0
@@ -7253,6 +8241,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1456564223}
   - 212: {fileID: 1456564224}
+  - 61: {fileID: 1456564225}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -7295,6 +8284,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1456564225
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 122377587}
+  m_GameObject: {fileID: 1456564222}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1476832878
 Prefab:
   m_ObjectHideFlags: 0
@@ -7348,6 +8349,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1483242769}
   - 212: {fileID: 1483242770}
+  - 61: {fileID: 1483242771}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -7390,6 +8392,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1483242771
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1516500667}
+  m_GameObject: {fileID: 1483242768}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1489747382
 GameObject:
   m_ObjectHideFlags: 0
@@ -7399,6 +8413,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1489747383}
   - 212: {fileID: 1489747384}
+  - 61: {fileID: 1489747385}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -7441,6 +8456,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1489747385
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1913020890}
+  m_GameObject: {fileID: 1489747382}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1493516702
 Prefab:
   m_ObjectHideFlags: 0
@@ -7494,6 +8521,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1494365351}
   - 212: {fileID: 1494365352}
+  - 61: {fileID: 1494365353}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -7536,6 +8564,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1494365353
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 722603780}
+  m_GameObject: {fileID: 1494365350}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1507136458
 Prefab:
   m_ObjectHideFlags: 0
@@ -7589,6 +8629,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1507964581}
   - 212: {fileID: 1507964582}
+  - 61: {fileID: 1507964583}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -7631,6 +8672,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1507964583
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 883103538}
+  m_GameObject: {fileID: 1507964580}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1516500667
 Prefab:
   m_ObjectHideFlags: 0
@@ -7860,6 +8913,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1539536932}
   - 212: {fileID: 1539536933}
+  - 61: {fileID: 1539536934}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -7902,6 +8956,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1539536934
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 863238857}
+  m_GameObject: {fileID: 1539536931}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1559272432
 GameObject:
   m_ObjectHideFlags: 0
@@ -7911,6 +8977,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1559272433}
   - 212: {fileID: 1559272434}
+  - 61: {fileID: 1559272435}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -7953,6 +9020,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1559272435
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1963728999}
+  m_GameObject: {fileID: 1559272432}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1588134017
 Prefab:
   m_ObjectHideFlags: 0
@@ -8270,6 +9349,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1662176994}
   - 212: {fileID: 1662176995}
+  - 61: {fileID: 1662176996}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -8312,6 +9392,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1662176996
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1606158009}
+  m_GameObject: {fileID: 1662176993}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1662529767
 Prefab:
   m_ObjectHideFlags: 0
@@ -8365,6 +9457,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1675060722}
   - 212: {fileID: 1675060723}
+  - 61: {fileID: 1675060724}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -8407,6 +9500,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1675060724
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 634676162}
+  m_GameObject: {fileID: 1675060721}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1680887858
 Prefab:
   m_ObjectHideFlags: 0
@@ -8621,7 +9726,7 @@ Transform:
   - {fileID: 1192808804}
   - {fileID: 1757440892}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 2
 --- !u!1 &1688187364
 GameObject:
   m_ObjectHideFlags: 0
@@ -8631,6 +9736,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1688187365}
   - 212: {fileID: 1688187366}
+  - 61: {fileID: 1688187367}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -8673,6 +9779,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1688187367
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 204228309}
+  m_GameObject: {fileID: 1688187364}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1690588094
 Prefab:
   m_ObjectHideFlags: 0
@@ -8770,6 +9888,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1718051621}
   - 212: {fileID: 1718051622}
+  - 61: {fileID: 1718051623}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -8812,6 +9931,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1718051623
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1396028775}
+  m_GameObject: {fileID: 1718051620}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1757440891
 GameObject:
   m_ObjectHideFlags: 0
@@ -8821,6 +9952,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1757440892}
   - 212: {fileID: 1757440893}
+  - 61: {fileID: 1757440894}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -8863,6 +9995,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1757440894
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 195595473}
+  m_GameObject: {fileID: 1757440891}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1759481118
 Prefab:
   m_ObjectHideFlags: 0
@@ -8960,6 +10104,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1776993553}
   - 212: {fileID: 1776993554}
+  - 61: {fileID: 1776993555}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -9002,6 +10147,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1776993555
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 79596364}
+  m_GameObject: {fileID: 1776993552}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1779654296
 Prefab:
   m_ObjectHideFlags: 0
@@ -9143,6 +10300,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1795035633}
   - 212: {fileID: 1795035634}
+  - 61: {fileID: 1795035635}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -9185,6 +10343,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1795035635
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 244279985}
+  m_GameObject: {fileID: 1795035632}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1804109173
 Prefab:
   m_ObjectHideFlags: 0
@@ -9238,6 +10408,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1805846487}
   - 212: {fileID: 1805846488}
+  - 61: {fileID: 1805846489}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -9280,6 +10451,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1805846489
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 1838660153}
+  m_GameObject: {fileID: 1805846486}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1814498776
 GameObject:
   m_ObjectHideFlags: 0
@@ -9289,6 +10472,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1814498777}
   - 212: {fileID: 1814498778}
+  - 61: {fileID: 1814498779}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -9331,6 +10515,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1814498779
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 751039310}
+  m_GameObject: {fileID: 1814498776}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1835224536
 GameObject:
   m_ObjectHideFlags: 0
@@ -9340,6 +10536,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1835224537}
   - 212: {fileID: 1835224538}
+  - 61: {fileID: 1835224539}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -9382,6 +10579,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1835224539
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1160655981}
+  m_GameObject: {fileID: 1835224536}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1838660153
 Prefab:
   m_ObjectHideFlags: 0
@@ -9435,6 +10644,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1877761494}
   - 212: {fileID: 1877761495}
+  - 61: {fileID: 1877761496}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -9477,6 +10687,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1877761496
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 849983456}
+  m_GameObject: {fileID: 1877761493}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1897307454
 GameObject:
   m_ObjectHideFlags: 0
@@ -9486,6 +10708,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1897307455}
   - 212: {fileID: 1897307456}
+  - 61: {fileID: 1897307457}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -9528,6 +10751,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1897307457
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 530634014}
+  m_GameObject: {fileID: 1897307454}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &1907080017
 GameObject:
   m_ObjectHideFlags: 0
@@ -9630,6 +10865,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1912687435}
   - 212: {fileID: 1912687436}
+  - 61: {fileID: 1912687437}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -9672,6 +10908,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &1912687437
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1370827703}
+  m_GameObject: {fileID: 1912687434}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &1913020890
 Prefab:
   m_ObjectHideFlags: 0
@@ -9989,6 +11237,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 2022691116}
   - 212: {fileID: 2022691117}
+  - 61: {fileID: 2022691118}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -10031,6 +11280,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &2022691118
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 1125366076}
+  m_GameObject: {fileID: 2022691115}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &2041872236
 Prefab:
   m_ObjectHideFlags: 0
@@ -10084,6 +11345,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 2043091430}
   - 212: {fileID: 2043091431}
+  - 61: {fileID: 2043091432}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -10126,6 +11388,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &2043091432
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 810111459}
+  m_GameObject: {fileID: 2043091429}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &2055169167
 Prefab:
   m_ObjectHideFlags: 0
@@ -10179,6 +11453,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 2063272685}
   - 212: {fileID: 2063272686}
+  - 61: {fileID: 2063272687}
   m_Layer: 0
   m_Name: tablero-piezaGris0
   m_TagString: Untagged
@@ -10221,6 +11496,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300010, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &2063272687
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: e82221633e869a5469cf8d726639e0e2,
+    type: 2}
+  m_PrefabInternal: {fileID: 537499143}
+  m_GameObject: {fileID: 2063272684}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &2076420205
 GameObject:
   m_ObjectHideFlags: 0
@@ -10230,6 +11517,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 2076420206}
   - 212: {fileID: 2076420207}
+  - 61: {fileID: 2076420208}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -10272,6 +11560,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &2076420208
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 817450693}
+  m_GameObject: {fileID: 2076420205}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1 &2076850560
 GameObject:
   m_ObjectHideFlags: 0
@@ -10281,6 +11581,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 2076850562}
   - 212: {fileID: 2076850561}
+  - 61: {fileID: 2076850563}
   m_Layer: 0
   m_Name: pieza2
   m_TagString: Untagged
@@ -10322,7 +11623,19 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 5
+--- !u!61 &2076850563
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: d453b7b9fd1d9ba4491118f74663de3f,
+    type: 2}
+  m_PrefabInternal: {fileID: 208280094}
+  m_GameObject: {fileID: 2076850560}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &2079339553
 Prefab:
   m_ObjectHideFlags: 0
@@ -10376,6 +11689,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 2085526062}
   - 212: {fileID: 2085526063}
+  - 61: {fileID: 2085526064}
   m_Layer: 0
   m_Name: tablero-piezaGris1
   m_TagString: Untagged
@@ -10418,6 +11732,18 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300032, guid: f85ac81973df2a14daf11e46579572a1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!61 &2085526064
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 6100000, guid: 2a7aaa03ad70cb4429f22ab2fcd9a797,
+    type: 2}
+  m_PrefabInternal: {fileID: 2143496957}
+  m_GameObject: {fileID: 2085526061}
+  m_Enabled: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Size: {x: 1, y: 1}
+  m_Center: {x: 0, y: 0}
 --- !u!1001 &2143496957
 Prefab:
   m_ObjectHideFlags: 0
